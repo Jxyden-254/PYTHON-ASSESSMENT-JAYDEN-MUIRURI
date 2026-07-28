@@ -1,7 +1,7 @@
 # Python Comprehensive Assessment
 
-**Name:** [Your Full Name]  
-**Admission Number:** [Your Admission Number]
+**Name:** [JAYDEN KINYANJUI MUIRURI]  
+**Admission Number:** [T006\304031\2024]
 
 ---
 
