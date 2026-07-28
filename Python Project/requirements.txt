@@ -1,0 +1,23 @@
+#coz i know we are supposed to present our work i have decided to explain why i have installed this packages
+
+#/1. NumPy (Numerical Python)#/
+What it does: Handles large, multi-dimensional arrays and matrices.
+Why use it: Python lists are slow for heavy math. NumPy provides high-performance mathematical functions and operations that run extremely fast.
+
+#/2. Pandas#/
+What it does: Data analysis and manipulation.
+Why use it: It provides DataFrames (which are like Excel spreadsheets/tables inside Python). It makes loading, filtering, cleaning, grouping, and analyzing tabular data simple and intuitive.
+
+#/3. Matplotlib#/
+What it does: Data visualization and plotting.
+Why use it: It allows you to generate high-quality charts, graphs, line plots, bar charts, and histograms to visually understand and present your data.
+
+#/4. Scikit-learn#/
+What it does: Machine learning.
+Why use it: It contains pre-built algorithms and tools for tasks like classification (e.g., K-Nearest Neighbors, Naive Bayes), regression, clustering, model evaluation, and preprocessing data.
+
+##install this packages to run the program##
+numpy
+pandas
+matplotlib
+scikit-learn
